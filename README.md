@@ -42,6 +42,7 @@ do
   fi
 done
 echo "$number is a prime number:"
+
 ------------------------------------------------------------------------------------------------------
 Q4:To convert from celsius degree to farenhit degree:
 #! /bin/bash
