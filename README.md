@@ -1,12 +1,20 @@
 # shett_2
 bash shell (sheet_2)
+
 Q1:Convert seconds to hours , minutes and seconds
+
 #! /bin/bash
+
 sec=0
+
 hr=0
+
 min=0
+
 sec1=0
+
 echo "Enter The Seconds:"
+
 read sec
 hr=$(( sec / 3600 ))
 sec=$(( sec % 3600 ))
